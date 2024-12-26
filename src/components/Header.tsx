@@ -76,7 +76,7 @@ export default function Header() {
             onClick={(e) => handleNavClick(e, '#home')}
             className="relative text-2xl font-bold bg-gradient-to-r from-violet-600 to-indigo-600 bg-clip-text text-transparent group"
           >
-            Dancan<span className="text-violet-600 inline-block group-hover:animate-bounce">.</span>
+            Dann<span className="text-violet-600 inline-block group-hover:animate-bounce">.</span>
           </a>
 
           <div className="hidden md:flex items-center space-x-8">
