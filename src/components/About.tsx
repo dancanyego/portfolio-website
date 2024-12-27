@@ -28,12 +28,12 @@ export default function About() {
             <Sparkles className="w-12 h-12 text-violet-200" />
           </div>
           <h2 className="text-5xl font-bold mb-6">
-            Hi, I'm <span className="text-violet-200">Isaac</span>. <br />
+            Hi, I'm <span className="text-violet-200">Dan</span>. <br />
             Nice to meet you.
           </h2>
           <p className="text-xl max-w-3xl mx-auto leading-relaxed opacity-90 animate-fade-in">
-            Since beginning my journey as a backend developer, I've worked with talented teams
-            to create robust systems, clear documentation, and efficient data solutions. I'm quietly confident,
+            Since beginning my journey as a Data Expert, I've worked with talented teams
+            to create robust Dashboards, Models, clear documentation, and efficient data solutions. I'm quietly confident,
             naturally curious, and perpetually improving my skills.
           </p>
         </div>
@@ -48,7 +48,7 @@ export default function About() {
               <div className="p-3 bg-violet-100 rounded-xl group-hover:bg-violet-600 group-hover:text-white transition-colors">
                 <Code2 className="w-8 h-8" />
               </div>
-              <h3 className="text-2xl font-bold">Backend Developer</h3>
+              <h3 className="text-2xl font-bold">Data Expert</h3>
             </div>
             <p className="text-gray-600 mb-8">
               I value clean architecture, efficient code, and scalable solutions.
@@ -60,7 +60,7 @@ export default function About() {
                   <span className="w-8 h-px bg-violet-200 mr-3"></span>
                   Languages I speak:
                 </h4>
-                <p className="text-gray-600">Python, Node.js, Java, SQL</p>
+                <p className="text-gray-600">Python, Kotlin, Java,Hadoop, SQL</p>
               </div>
               <div>
                 <h4 className="text-violet-600 font-medium mb-3 flex items-center">
@@ -106,6 +106,9 @@ export default function About() {
                 </h4>
                 <ul className="text-gray-600 space-y-2">
                   <li>ETL Pipeline Design</li>
+                  <li>Machine Learning</li>
+                  <li>Deep Learning</li>
+                  <li>Neural Networks</li>
                   <li>Real-time Processing</li>
                   <li>Data Warehousing</li>
                   <li>Stream Processing</li>
