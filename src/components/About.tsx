@@ -60,7 +60,7 @@ export default function About() {
                   <span className="w-8 h-px bg-violet-200 mr-3"></span>
                   Languages I speak:
                 </h4>
-                <p className="text-gray-600">Python, Kotlin, Java,Hadoop, SQL</p>
+                <p className="text-gray-600">Python, SQL</p>
               </div>
               <div>
                 <h4 className="text-violet-600 font-medium mb-3 flex items-center">
