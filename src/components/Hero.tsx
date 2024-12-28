@@ -27,27 +27,27 @@ export default function Hero() {
         <div className="max-w-5xl mx-auto">
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-12">
-            <a href="https://github.com/isaactony" className="text-gray-600 hover:text-violet-600 transition-colors">
+            <a href="https://github.com/dancanyego" className="text-gray-600 hover:text-violet-600 transition-colors">
               <Github className="w-6 h-6" />
             </a>
-            <a href="https://www.linkedin.com/in/isaactonyloi/" className="text-gray-600 hover:text-violet-600 transition-colors">
+            <a href="https://www.linkedin.com/in/dancan-kipchumba-888887172/" className="text-gray-600 hover:text-violet-600 transition-colors">
               <Linkedin className="w-6 h-6" />
             </a>
-            <a href="https://x.com/Isaactonyloi" className="text-gray-600 hover:text-violet-600 transition-colors">
+            <a href="https://x.com/Dannykipchumba" className="text-gray-600 hover:text-violet-600 transition-colors">
               <Twitter className="w-6 h-6" />
             </a>
           </div>
 
           {/* Main Title */}
           <h1 className="text-[4rem] md:text-[5rem] font-bold leading-tight mb-8 text-center">
-            Backend Developer, Technical Writer &{' '}
+            Data Analyst, Data Scientist &{' '}
             <span className="bg-gradient-to-r from-violet-600 to-blue-600 bg-clip-text text-transparent">
               Big Data Expert
             </span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto mb-16 text-center">
-            I design and code beautifully simple things, and I love what I do. With expertise in scalable systems,
+            I design and code beautifully simple things, and I love what I do. With expertise in Data dashboards, Scalanle Predicitive models,
             technical documentation, and data engineering.
           </p>
 
