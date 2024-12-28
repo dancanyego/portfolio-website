@@ -65,10 +65,10 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold">
-              Isaac<span className="text-violet-500">.</span>
+              Dancan<span className="text-violet-500">.</span>
             </h3>
             <p className="text-gray-400">
-              Backend Developer, Technical Writer & Big Data Expert crafting efficient solutions.
+              Data Scientist, Data Analyst & Big Data Expert crafting efficient solutions.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((link) => (
@@ -104,8 +104,8 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Services</h4>
             <ul className="space-y-2">
-              <li><a href="#about" className="text-gray-400 hover:text-violet-500 transition-colors">Backend Development</a></li>
-              <li><a href="#about" className="text-gray-400 hover:text-violet-500 transition-colors">Technical Writing</a></li>
+              <li><a href="#about" className="text-gray-400 hover:text-violet-500 transition-colors">Data Analyst</a></li>
+              <li><a href="#about" className="text-gray-400 hover:text-violet-500 transition-colors">Data Scientist</a></li>
               <li><a href="#about" className="text-gray-400 hover:text-violet-500 transition-colors">Big Data Solutions</a></li>
               <li><a href="#startup-projects" className="text-gray-400 hover:text-violet-500 transition-colors">Startup Projects</a></li>
             </ul>
@@ -121,13 +121,13 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3 text-gray-400">
                 <Mail className="w-5 h-5 text-violet-500" />
-                <a href="mailto:isaactonyloi@gmail.com" className="hover:text-violet-500 transition-colors">
-                  isaactonyloi@gmail.com
+                <a href="mailto:yegodancan00@gmail.com" className="hover:text-violet-500 transition-colors">
+                  yegodancan00@gmail.com
                 </a>
               </li>
               <li className="flex items-center space-x-3 text-gray-400">
                 <Phone className="w-5 h-5 text-violet-500" />
-                <span>+1 (555) 123-4567</span>
+                <span>+254716864508</span>
               </li>
               <li className="flex items-center space-x-3 text-gray-400">
                 <Calendar className="w-5 h-5 text-violet-500" />
