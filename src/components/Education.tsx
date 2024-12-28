@@ -4,7 +4,7 @@ import { GridPattern } from './Patterns';
 
 const education = [
   {
-    degree: "PhD in Computer Science",
+    degree: "Master of Science in Data Science and Analytics",
     school: "Future University",
     period: "Future",
     location: "To be determined",
@@ -14,19 +14,19 @@ const education = [
     isFuture: true
   },
   {
-    degree: "Master of Science in Computer Systems",
-    school: "Jomo Kenyatta University of Agriculture and Technology",
-    period: "2023 - Present",
+    degree: "Bachelor of Science in Information Technology ",
+    school: "Mount Kenya University",
+    period: "2021 - 2025",
     location: "Nairobi, Kenya",
     status: "Ongoing",
     description: "Focusing on advanced computer systems, distributed computing, and system architecture.",
     color: "from-violet-600 to-indigo-600"
   },
   {
-    degree: "Bachelor of Science in Statistics and Computer Programming",
-    school: "Kenyatta University",
-    period: "2018 - 2022",
-    location: "Nairobi, Kenya",
+    degree: "Diploma in Information Technology",
+    school: "Kisii University",
+    period: "2017 - 2020",
+    location: "Eldoret, Kenya",
     status: "Completed",
     description: "Combined statistical analysis with computer programming, focusing on data-driven solutions and software development.",
     color: "from-emerald-600 to-teal-600"
