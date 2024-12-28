@@ -72,7 +72,7 @@ export default function Hero() {
           <div className="relative w-48 h-48 mx-auto mb-20">
             <div className="absolute inset-0 bg-gradient-to-r from-violet-600 to-blue-600 rounded-full opacity-20 blur-2xl animate-pulse"></div>
             <img
-              src="https://www.upwork.com/profile-portraits/c1xcdfGMpXvcKB4XwTIwPcnSmSCg34E5zCPNqHRnie--Xn_8s9IaBCxiiJ2d8Z-SgB"
+              src="https://www.upwork.com/profile-portraits/c1K9Iid8_A_HN1QtLVLiO6GJ9QOENV8gRFWvGyclVOmcKuMZCU_XCU1UNqUSABHexJ"
               alt="Profile"
               className="rounded-full w-full h-full object-cover border-4 border-white shadow-xl relative z-10"
             />
