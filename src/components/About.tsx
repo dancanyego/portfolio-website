@@ -70,11 +70,11 @@ export default function About() {
                 <ul className="text-gray-600 space-y-2">
                   <li>Power BI</li>
                   <li>Docker</li>
-                  <li>Kubernetes</li>
-                  <li>AWS</li>
-                  <li>MongoDB</li>
+                  <li>Excel</li>
+                  <li>Alteryx</li>
+                  <li>Talend</li>
                   <li>PostgreSQL</li>
-                  <li>Redis</li>
+                  <li>Git</li>
                 </ul>
               </div>
             </div>
