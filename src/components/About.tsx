@@ -48,10 +48,10 @@ export default function About() {
               <div className="p-3 bg-violet-100 rounded-xl group-hover:bg-violet-600 group-hover:text-white transition-colors">
                 <Code2 className="w-8 h-8" />
               </div>
-              <h3 className="text-2xl font-bold">Data Expert</h3>
+              <h3 className="text-2xl font-bold">Data Analyst</h3>
             </div>
             <p className="text-gray-600 mb-8">
-              I value clean architecture, efficient code, and scalable solutions.
+              I prioritize clean data architecture, efficient analysis, and scalable data solutions.
             </p>
 
             <div className="space-y-8">
@@ -60,7 +60,7 @@ export default function About() {
                   <span className="w-8 h-px bg-violet-200 mr-3"></span>
                   Languages I speak:
                 </h4>
-                <p className="text-gray-600">Python, SQL</p>
+                <p className="text-gray-600">Python, SQL,Data Analysis Expressions(DAX)</p>
               </div>
               <div>
                 <h4 className="text-violet-600 font-medium mb-3 flex items-center">
@@ -68,6 +68,7 @@ export default function About() {
                   Dev Tools:
                 </h4>
                 <ul className="text-gray-600 space-y-2">
+                  <li>Power BI</li>
                   <li>Docker</li>
                   <li>Kubernetes</li>
                   <li>AWS</li>
