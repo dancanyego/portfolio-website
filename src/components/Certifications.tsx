@@ -14,6 +14,20 @@ const certifications = [
         link: "https://www.coursera.org/account/accomplishments/professional-cert/META-BACKEND",
         icon: <Target className="w-5 h-5" />
       },
+       {
+    provider: "DataQuest",
+    icon: <Trophy className="w-6 h-6" />,
+    certs: [
+      {
+        name: "Business Analyst with Power BI",
+        date: "2024",
+        skills: ["DAX", "Data Manipulation", "Microsoft Power BI", "Data Analysis"],
+        link: "https://app.dataquest.io/view_cert/JU48ZV89W8CZT3P252F3",
+        icon: <Star className="w-5 h-5" />
+      }
+    ],
+    color: "from-sky-500 to-cyan-500"
+  },
       {
         name: "Database Engineer",
         date: "2023",
