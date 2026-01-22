@@ -11,10 +11,10 @@ export default function Footer() {
   const [hoveredIcon, setHoveredIcon] = useState<string | null>(null);
 
   const socialLinks = [
-    { name: 'github', url: 'https://github.com', icon: <Github className="w-5 h-5" /> },
+    { name: 'github', url: 'https://github.com/dancanyego', icon: <Github className="w-5 h-5" /> },
     { name: 'linkedin', url: 'https://linkedin.com', icon: <Linkedin className="w-5 h-5" /> },
     { name: 'twitter', url: 'https://twitter.com', icon: <Twitter className="w-5 h-5" /> },
-    { name: 'mail', url: 'mailto:isaactonyloi@gmail.com', icon: <Mail className="w-5 h-5" /> }
+    { name: 'mail', url: 'mailto:yegodancan00@gmail.com', icon: <Mail className="w-5 h-5" /> }
   ];
 
   return (
@@ -140,7 +140,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {currentYear} Isaac Tonyloi. All rights reserved.
+            © {currentYear} Dancan Yego. All rights reserved.
           </p>
           <div className="flex items-center mt-4 md:mt-0">
             <a href="#privacy" className="text-gray-400 hover:text-violet-500 transition-colors text-sm mx-4">
