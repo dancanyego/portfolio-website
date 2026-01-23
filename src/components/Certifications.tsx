@@ -4,14 +4,14 @@ import { HexagonPattern } from './Patterns';
 
 const certifications = [
   {
-    provider: "Meta",
+    provider: "Dataquest",
     icon: <Cpu className="w-6 h-6" />,
     certs: [
       {
-        name: "Backend Developer",
-        date: "2023",
-        skills: ["Django", "APIs", "Database Design", "Security"],
-        link: "https://www.coursera.org/account/accomplishments/professional-cert/META-BACKEND",
+        name: "Business Analyst with Power BI",
+        date: "2024",
+        skills: ["Power Query", "DAX", "Power BI Service", "ETL"],
+        link: "https://app.dataquest.io/view_cert/JU48ZV89W8CZT3P252F3",
         icon: <Target className="w-5 h-5" />
       },
       {
