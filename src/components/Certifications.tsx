@@ -50,10 +50,10 @@ const certifications = [
         icon: <Sparkles className="w-5 h-5" />
       },
       {
-        name: "AWS Solutions Architect Associate",
+        name: "SQL Skills for Data Analysis",
         date: "2023",
-        skills: ["Cloud Computing", "AWS Services", "Security", "Architecture"],
-        link: "https://www.credly.com/badges/c46aa5e8-b5f0-4439-aef5-f05421232778/linked_in_profile",
+        skills: ["Database Querying", "Data Analysis & Reporting", "Data Cleaning & Transformation", "Data Integration"],
+        link: "https://app.dataquest.io/view_cert/CTFJUJQFC5B2AN5G9VL5",
         icon: <Sparkles className="w-5 h-5" />
       }
     ],
