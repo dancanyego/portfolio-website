@@ -18,9 +18,9 @@ const education = [
     school: "Mount Kenya University",
     period: "2021 - 2025",
     location: "Nairobi, Kenya",
-    status: "Ongoing",
+    status: "Completed",
     description: "Focusing on advanced computer systems, distributed computing, and system architecture.",
-    color: "from-violet-600 to-indigo-600"
+    color: "from-emerald-600 to-teal-600"
   },
   {
     degree: "Diploma in Information Technology",
