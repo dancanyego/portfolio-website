@@ -126,32 +126,32 @@ export default function About() {
               <div className="p-3 bg-violet-100 rounded-xl group-hover:bg-violet-600 group-hover:text-white transition-colors">
                 <FileText className="w-8 h-8" />
               </div>
-              <h3 className="text-2xl font-bold">Technical Writer</h3>
+              <h3 className="text-2xl font-bold">Data Scientist</h3>
             </div>
             <p className="text-gray-600 mb-8">
-              I create clear documentation that bridges complex systems and understanding.
+              I design, analyze, and deploy data-driven solutions that transform raw data into actionable insights and production-ready models.
             </p>
 
             <div className="space-y-8">
               <div>
                 <h4 className="text-violet-600 font-medium mb-3 flex items-center">
                   <span className="w-8 h-px bg-violet-200 mr-3"></span>
-                  What I write:
+                  What I work on:
                 </h4>
-                <p className="text-gray-600">API Docs, Architecture Guides, Tutorials</p>
+                <p className="text-gray-600">Statistical Modeling, Machine Learning Pipelines, Data Engineering & Analytics</p>
               </div>
               <div>
                 <h4 className="text-violet-600 font-medium mb-3 flex items-center">
                   <span className="w-8 h-px bg-violet-200 mr-3"></span>
-                  Writing Stats:
+                  Technical Experience:
                 </h4>
                 <ul className="text-gray-600 space-y-2">
-                  <li>500+ Technical Articles</li>
-                  <li>50+ System Docs</li>
-                  <li>20+ White Papers</li>
-                  <li>10+ Case Studies</li>
-                  <li>5+ Books</li>
-                  <li>1000+ Code Examples</li>
+                  <li>Exploratory Data Analysis & Feature Engineering Workflows</li>
+                  <li>End-to-End ML Models (classification, regression, clustering) </li>
+                  <li>Research-Grade Experiments & Model Evaluations</li>
+                  <li>Data-Driven Case Studies with Business Impact</li>
+                  <li>Deployed Models (batch & real-time inference)</li>
+                  <li>1000+ Lines of Python/SQL for data processing, modeling, and automation</li>
                 </ul>
               </div>
             </div>
