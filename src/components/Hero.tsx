@@ -10,8 +10,8 @@ const stats = [
 ];
 
 const technologies = [
-  'Python', 'SQL', 'Java', 'Apache Spark', 'Kubernetes', 'Docker',
-  'MongoDB', 'PostgreSQL', 'Redis', 'AWS', 'Kafka', 'Hadoop'
+  'Python', 'SQL', 'Power BI', 'Apache Spark', 'Deep Learning', 'Docker',
+  'Machine Learning', 'PostgreSQL', 'Redis', 'AWS', 'DAX querry', 'Hadoop'
 ];
 
 export default function Hero() {
