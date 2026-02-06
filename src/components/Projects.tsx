@@ -14,15 +14,6 @@ const projects = [
     color: "from-emerald-500 to-green-500"
   },
   {
-    title: "Job Queue Microservice",
-    description: "Users can register and login through auth service by user role (ADMIN or USER) through api gateway,  User can send any request to relevant service through api gateway with its bearer token ",
-    image: "",
-    link: "https://github.com/isaactony/job-queue-system",
-    status: "Production",
-    tech: ["Node.js", "Redis", "Docker", "Kubernetes"],
-    color: "from-blue-500 to-cyan-500"
-  },
-  {
     title: "Sendent",
     description: "Knowledgebase Platform for Sendent Plugin for Outlook, Teams ",
     image: "https://portfolio-images-for-tonyloi.s3.eu-central-1.amazonaws.com/Screenshot+2024-11-04+at+13.57.22.png",
@@ -44,19 +35,10 @@ const projects = [
     title: "Portfolio",
     description: "My Personal Portfolio Website",
     image: "https://portfolio-images-for-tonyloi.s3.eu-central-1.amazonaws.com/Screenshot+2024-11-04+at+13.00.16.png",
-    link: "https://isaactonyloiportfolio.netlify.app/",
+    link: "https://dancanyego.vercel.app/",
     status: "Production",
     tech: ["React", "Tailwind", "Framer Motion"],
     color: "from-violet-500 to-fuchsia-500"
-  },
-  {
-    title: "Upwork",
-    description: "An Upwork platform clone using Typescript, React and Tailwind CSS",
-    image: "https://private-user-images.githubusercontent.com/59682377/380039102-15b5b110-fec1-4b83-901f-74b19427ee95.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwMTg1ODMsIm5iZiI6MTczMDAxODI4MywicGF0aCI6Ii81OTY4MjM3Ny8zODAwMzkxMDItMTViNWIxMTAtZmVjMS00YjgzLTkwMWYtNzRiMTk0MjdlZTk1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI3VDA4MzgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzZmYwYzJhMWNmYzA3NTNhMjcyY2E3ODE0MzE5NmIxNzVlMTk3ZWRjMDkzZGMyZjc1OTUyYTcwNWE3Mjk3NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RF6j3gw9qy0sTDPMqKPr4T5vwmSPnFE1gJY-9zMoIUo",
-    link: "https://snazzy-hummingbird-1b200b.netlify.app/",
-    status: "Production",
-    tech: ["TypeScript", "React", "Tailwind"],
-    color: "from-orange-500 to-amber-500"
   },
   {
     title: "Data Pipeline Framework",
