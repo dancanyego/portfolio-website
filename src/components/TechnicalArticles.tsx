@@ -10,7 +10,7 @@ const articles = [
     date: "Mar 15, 2024",
     views: "12.5k",
     likes: "856",
-    link: "https://medium.com/@isaactonyloi/building-scalable-data-pipelines",
+    link: "https://medium.com/@dannyyego76/building-scalable-data-pipelines",
     tags: ["Apache Spark", "Data Engineering", "ETL", "Big Data"]
   },
   {
@@ -20,7 +20,7 @@ const articles = [
     date: "Feb 28, 2024",
     views: "8.2k",
     likes: "643",
-    link: "https://dev.to/isaactonyloi/microservices-architecture",
+    link: "https://dev.to/dannyyego76/microservices-architecture",
     tags: ["Microservices", "System Design", "Architecture", "Backend"]
   },
   {
@@ -30,7 +30,7 @@ const articles = [
     date: "Feb 10, 2024",
     views: "15.3k",
     likes: "927",
-    link: "https://hashnode.com/@isaactonyloi/postgresql-tuning",
+    link: "https://hashnode.com/@dancanyego/postgresql-tuning",
     tags: ["PostgreSQL", "Database", "Performance", "SQL"]
   }
 ];
