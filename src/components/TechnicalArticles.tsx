@@ -106,7 +106,7 @@ export default function TechnicalArticles() {
 
         <div className="text-center mt-12">
           <a
-            href="https://medium.com/@isaactonyloi"
+            href="https://medium.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center text-violet-600 hover:text-violet-700 font-medium group"
